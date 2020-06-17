@@ -1,0 +1,11 @@
+var a =5;
+var b = '15';
+var c = 9;
+var d = 11;
+var e = 20;
+alert(a+a);
+alert(a*2);
+alert(++c);
+alert(--d);
+alert(b-a);
+alert(e/2);
